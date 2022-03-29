@@ -1,0 +1,35 @@
+
+h2{
+	text-decoration: underline;
+}
+p{ 
+	font-size: small; font-style: italic;
+}	
+
+#Intro{
+	color:green; 
+}
+h3{
+	font-size: small;
+}
+li{
+	color:blue;
+}
+.aboutMe{
+	color:red;
+}
+#div4{
+	
+	background-color: rgb(233,150,122);
+	border-style: solid;
+	border-color: red;
+	width: 250px;
+	padding: 10px;
+	border-width: 10px
+
+}
+
+.div2{
+	background-color: red;
+}
+		
