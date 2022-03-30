@@ -1,6 +1,7 @@
 
 h2{
 	text-decoration: underline;
+
 }
 p{ 
 	font-size: small; font-style: italic;
@@ -18,18 +19,51 @@ li{
 .aboutMe{
 	color:red;
 }
-#div4{
+
+#div1{
+	display: inline-block;
+	float: left;
+	margin: 0,0,1em,1em;
+	width: 350px;
+}
+.div2{
+	display: inline-block;
+	margin-top: 60px;
+	left: 350px;
+	background-color: rgb(218,139,173);
+	width: 330px;
+	clear: left;
+}
+
+#div3{
 	
-	background-color: rgb(233,150,122);
+	
+	margin-top: 60px;
+	margin-left: 400px;
+	width: 335px;
+}
+
+
+
+#div4{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	
+	margin-top: 100px;
+	background-color: rgb(230,178,201);
 	border-style: solid;
-	border-color: red;
+	border-color: rgb(195,68,122);
 	width: 250px;
 	padding: 10px;
 	border-width: 10px
-
 }
 
-.div2{
-	background-color: red;
+#div5{
+	position: relative;
+	clear: left;
+	width: 330px;
 }
+
+
 		
